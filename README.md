@@ -1,3 +1,3 @@
-# Statistical-Survey-THE-SURVIVAL-OF-NEWSPAPERS-IN-THE-DIGITAL-WORLD
+# Statistical Survey-THE SURVIVAL OF NEWSPAPERS IN THE DIGITAL WORLD
 
 This project explores how traditional newspapers are adapting to the rise of digital media. Using primary data collected via a questionnaire and analyzed through graphical methods and the Chi-square test, the study finds that while newspapers remain important in daily life, digital platforms like social media and e-newspapers are significantly reducing print newspaper sales. English is the most preferred newspaper language across localities, and entertainment is the most-read section. The research highlights the shifting preferences in news consumption in the digital era.
